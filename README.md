@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+![image](https://github.com/NeerajSirvisetti/NeerajSirvisetti/assets/32873782/8ef9cd9c-bd45-4844-8995-a39e02a774df)# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://twitter.com/neeraj_kuro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Neeraj_Sirvisetti" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/neeraj-sirvisetti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NeerajSirvisetti" height="30" width="30" /></a>&nbsp;
@@ -10,18 +10,24 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Python Development Engineer working for a consultancy Services Tech Giant in India 
+- 🏦 I'm a Physical Design Engineer, working on integrating my current work with my passion power of Deep Learning. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.ipynb**,**.py**, **.yml**, **Splunk**,  **AWS**
+- 💻 I use daily **.ipynb**,**.py**, **Innovus**, **Genus**,  **.sh**
 - 📖 I am currently reading **The Author's POV** by entrail ji
-- 💬 Talk to me about Physics, Python , Deep Learning & Quantum Computing
+- 💬 Talk to me about Physics, Python , Physical Designing, Deep Learning & Quantum Computing
 - 👯 We can connect to build projects if your have any common interests overlapping mine
 - ⚡ Fun fact: el psy congroo
-- 🧑‍💻 Tech I work on :
+- 🧑‍💻 Tech I am working on :
 <p align="center">
-     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>      
+
+      
+      
+- 🧑‍💻 Tech I worked on :
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="kubernetes" width="55" height="55"/>
