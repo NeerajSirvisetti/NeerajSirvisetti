@@ -12,7 +12,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Physical Design Engineer, working on integrating my current work with my passion power of Deep Learning. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.ipynb**, **.py**, **.tcl**, **Innovus**, **Genus**, **.sh**
+- 💻 I use daily **.ipynb**, **.py**, **.tcl**, **Cadence Tools**, **.sh**
 - 📖 I am currently reading **The Author's POV** by entrail ji
 - 💬 Talk to me about Physics, Python , Physical Designing, Deep Learning & Quantum Computing
 - 👯 We can connect to build projects if your have any common interests overlapping mine
@@ -20,6 +20,7 @@
 - 🧑‍💻 Tech I am working on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://logowik.com/content/uploads/images/cadence2352.logowik.com.webp" alt ="cadence tools" width="110" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/tcl/tcl-ar21.svg" alt="TCL" width="95" height="55"/>
