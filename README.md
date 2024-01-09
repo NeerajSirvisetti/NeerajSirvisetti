@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://twitter.com/neeraj_kuro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/x.svg" alt="Neeraj_Sirvisetti" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/neeraj-sirvisetti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NeerajSirvisetti" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/neeraj-sirvisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NeerajSirvisetti" height="30" width="30" /></a>&nbsp;
 <a href="https://neerajsirvisetti.herokuapp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Neerajsirvisetti" height="40" width="30" /></a>&nbsp;
 </p>
 
