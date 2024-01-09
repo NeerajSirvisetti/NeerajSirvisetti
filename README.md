@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://twitter.com/neeraj_kuro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Neeraj_Sirvisetti" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/neeraj_kuro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/x.svg" alt="Neeraj_Sirvisetti" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/neeraj-sirvisetti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NeerajSirvisetti" height="30" width="30" /></a>&nbsp;
 <a href="https://neerajsirvisetti.herokuapp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Neerajsirvisetti" height="40" width="30" /></a>&nbsp;
 </p>
@@ -12,7 +12,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Physical Design Engineer, working on integrating my current work with my passion power of Deep Learning. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.ipynb**,**.py**, **Innovus**, **Genus**,  **.sh**
+- 💻 I use daily **.ipynb**, **.py**, **.tcl**, **Innovus**, **Genus**, **.sh**
 - 📖 I am currently reading **The Author's POV** by entrail ji
 - 💬 Talk to me about Physics, Python , Physical Designing, Deep Learning & Quantum Computing
 - 👯 We can connect to build projects if your have any common interests overlapping mine
@@ -21,7 +21,8 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>      
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/tcl/tcl-ar21.svg" alt="TCL" width="95" height="55"/>
 
       
       
