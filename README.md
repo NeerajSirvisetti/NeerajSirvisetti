@@ -10,18 +10,24 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Python Development Engineer working for a consultancy Services Tech Giant in India 
+- 🏦 I'm a Physical Design Engineer, working on integrating my current work with my passion power of Deep Learning.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.ipynb**,**.py**, **.yml**, **Splunk**,  **AWS**
+- 💻 I use daily **.ipynb**, **.py**, **.tcl**, **Cadence Tools**, **.sh**
 - 📖 I am currently reading **The Author's POV** by entrail ji
-- 💬 Talk to me about Physics, Python , Deep Learning & Quantum Computing
+- 💬 Talk to me about Physics, Python , Physical Designing, Deep Learning & Quantum Computing
 - 👯 We can connect to build projects if your have any common interests overlapping mine
 - ⚡ Fun fact: el psy congroo
-- 🧑‍💻 Tech I work on :
+- 🧑‍💻 Tech I am working on :
 <p align="center">
-     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://logowik.com/content/uploads/images/cadence2352.logowik.com.webp" alt ="cadence tools" width="110" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/tcl/tcl-ar21.svg" alt="TCL" width="95" height="55"/>
+      
+- 🧑‍💻 Tech I worked on :
+<p align="center">
       <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>      
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="kubernetes" width="55" height="55"/>
@@ -44,7 +50,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 2.47 % as on ⏰ 9-Jan-2024
+⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 2.75 % as on ⏰ 10-Jan-2024
 
 ---
 
